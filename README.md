@@ -11,7 +11,7 @@ uv sync
 
 ## How to Play
 ```
-uv run python frontend/app.py
+uv run python -m frontend.app
 ```
 
 Left click to reveal a cell. Right click to flag or unflag a cell. The goal is to reveal all safe cells without hitting a mine.

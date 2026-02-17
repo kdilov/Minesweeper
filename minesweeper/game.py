@@ -1,4 +1,4 @@
-from enums import GameState, CellVisibility
+from minesweeper.enums import GameState, CellVisibility
 import random
 
 class Minesweeper:
